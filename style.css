@@ -1,0 +1,30 @@
+body{
+    background-color: #FFF8DC;
+    color: #2F4F4F;
+}
+
+a:link,a:hover,a:visited,a:active{
+color: #FF6347;
+}
+h2{
+  color: #FF6347;
+}
+.cimkep{
+display: block; margin: auto;
+border-left: 1px solid;
+border-right: 1px solid;
+border-top: 1px solid;
+}
+#vonal{
+    width: 70%;
+}
+.kep2{
+    float: right;
+    border: 1px solid;
+}
+tr{
+    text-align: center;
+}
+span{
+    margin: right;
+}
